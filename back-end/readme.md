@@ -1,8 +1,9 @@
 aqui vai rodar a plataforma de videos do site
 
-"""
+
+'''
 Roadmap of development:
-"""
+'''
 
 
     MVP:
